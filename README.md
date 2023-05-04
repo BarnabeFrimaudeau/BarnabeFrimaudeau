@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-I'm Barnabé, a high school student aspiring to become a software engineer in the future, welcome to my GitHub profile!
+I'm Barnabé, welcome to my GitHub profile!
